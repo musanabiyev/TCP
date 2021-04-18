@@ -15,7 +15,7 @@ import util.FileUtility;
  *
  * @author M
  */
-public class TSPClient {
+public class TCPClient {
 
     public static void main(String[] args) throws Exception {
         Socket socket = new Socket("ip address", 6789);
